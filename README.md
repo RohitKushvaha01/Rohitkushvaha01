@@ -7,7 +7,6 @@
 
 - 📫 How to reach me **kushvahar173@gmail.com**
 
-- ⚡ Fun fact **I think I am addicted to programing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
