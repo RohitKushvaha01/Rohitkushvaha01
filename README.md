@@ -1,4 +1,4 @@
-Hi 👋, I'm Rohit Kushwaha
+Hi 👋, I'm Rohit Kushwaha <br>
 A passionate Android developer from India
  I’m currently working on [Xed Editor](https://github.com/RohitKushvaha01/Xed-Editor)
 
