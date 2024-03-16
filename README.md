@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rohit Kushwaha</h1>
+<h5 align="center">Hi 👋, I'm Rohit Kushwaha</h5>
 <h3 align="center">A passionate Android developer from India</h3>
 
 - 🔭 I’m currently working on [Xed Editor](https://github.com/RohitKushvaha01/Xed-Editor)
