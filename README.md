@@ -14,8 +14,7 @@
 - ⚡ Fun fact **I think I am addicted to programing**
 
 
-<img src="
-https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black"/>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohitkushvaha01&theme=transparent" alt="rohitkushvaha01" /></p>
 
