@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Xed Editor](https://github.com/RohitKushvaha01/Xed-Editor)
 
-- 🌱 I’m currently learning **Kotlin**
+- 🌱 I’m currently learning **Android Development**
 
 - ⚡ Fun fact **I think I am addicted to programing**
 
