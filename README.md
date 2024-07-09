@@ -8,8 +8,6 @@
 
 - 🌱 I’m currently learning **Android Development**
 
-- ⚡ Fun fact **I think I am addicted to programing**
-
 <div style="display: flex; flex-wrap: wrap;">
 
 
