@@ -1,10 +1,4 @@
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitkushvaha01&label=Profile%20views&color=0e75b6&style=flat" alt="rohitkushvaha01" /> </p>
-
-I’m currently working on [Xed Editor](https://github.com/RohitKushvaha01/Xed-Editor)
-
 <div style="display: flex; flex-wrap: wrap;">
-
 
 ## Languages and Tools
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black"/>
