@@ -3,8 +3,6 @@
 
 I’m currently working on [Xed Editor](https://github.com/RohitKushvaha01/Xed-Editor)
 
-I’m currently learning **Android Development**
-
 <div style="display: flex; flex-wrap: wrap;">
 
 
