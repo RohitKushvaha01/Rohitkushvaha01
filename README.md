@@ -1,12 +1,8 @@
 
-<h3 align="center">A passionate Android developer from India</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitkushvaha01&label=Profile%20views&color=0e75b6&style=flat" alt="rohitkushvaha01" /> </p>
 
-
-- 🔭 I’m currently working on [Xed Editor](https://github.com/RohitKushvaha01/Xed-Editor)
-
-- 🌱 I’m currently learning **Android Development**
+I’m currently working on [Xed Editor](https://github.com/RohitKushvaha01/Xed-Editor)
+🌱 I’m currently learning **Android Development**
 
 <div style="display: flex; flex-wrap: wrap;">
 
