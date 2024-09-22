@@ -1,6 +1,4 @@
 
-<h1 align="center">Greetings 👋</h1>
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=600&color=229C43&width=435&lines=Hi%2C+I'm+Rohit.;I+do+Android.;I+love+Linux.)](https://git.io/typing-svg)
 
 - I'm currently learning **Figma**.
