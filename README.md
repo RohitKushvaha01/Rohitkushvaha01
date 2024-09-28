@@ -9,7 +9,7 @@
 I've been into programming since the age of **13!**
 
 I have en extensive experience with Kotlin, Java and Python.
-I work git, bash, fish, Visual Studio Code, Android Studio, Intellij Idea.
+I work with git, bash, fish, Visual Studio Code, Android Studio, Intellij Idea.
 
 <p align="center">
 
