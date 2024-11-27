@@ -74,6 +74,7 @@ I’m **Rohit Kushvaha** from India, and I began my programming journey at the a
 ![Zorin OS](https://img.shields.io/badge/-Zorin%20OS-%2310AAEB?style=for-the-badge&logo=zorin&logoColor=white)
 
 ## Let's Connect
+I'm always open to exciting opportunities for work or freelance collaborations. Feel free to reach out—I’d love to hear from you!
 Email : kushvahar173@gmail.com
 
 
