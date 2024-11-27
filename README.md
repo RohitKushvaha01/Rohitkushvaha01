@@ -1,6 +1,8 @@
-👋 **Hi there!**  
+## 👋 **Hi there!** 
 
-🌟 **About Me:**  
+I’m **Rohit Kushvaha** from India, and I began my programming journey at the age of 12.
+
+## **About Me:**  
 - 🚀 Android developer with **3+ years of experience**, specializing in creating high-quality mobile applications.  
 - 🐧 Passionate about **Linux systems** with deep expertise in system-level optimizations and scripting.  
 - 💻 Strong background in **Java (3 years)** and **Kotlin (2 years)** for robust and scalable software development.  
