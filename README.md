@@ -12,7 +12,7 @@ I’m **Rohit Kushvaha** from India, and I began my programming journey at the a
  
 <img src="https://github-readme-stats-one-bice.vercel.app/api?username=RohitKushvaha01&show_icons=true&include_all_commits=true&count_private=true&bg_color=00000000&text_color=808080&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"/>
  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Rohitkushvaha01&theme=toonight&background=06182100&border=0C1A2500&stroke=42a4f5&fire=42a4f5&ring=42a4f5&currStreakNum=ffffff&sideNums=ffffff&sideLabels=42a4f5&dates=40edab&currStreakLabel=42a4f5)](https://github.com/Rohitkushvaha01)
+<img src="https://github-readme-streak-stats.herokuapp.com?user=RohitKushvaha01&theme=onedark&hide_border=true&background=00000000&stroke=80808080" alt="PranavPurwar" />
 
 
 ## **Languages**
