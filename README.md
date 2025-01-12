@@ -1,6 +1,6 @@
 ## **RohitKushvaha01** 
 
-I’m **Rohit Kushvaha** from India, and I began my programming journey at the age of 12.
+I’m **Rohit Kushvaha** from India
 
 ## **About Me:**  
 - 🚀 Android developer with **3+ years of experience**, specializing in creating high-quality mobile applications.  
@@ -78,6 +78,20 @@ Email : kushvahar173@gmail.com
 
 ## Time
  <a href="https://wakatime.com/@RohitKushvaha01"> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@RohitKushvaha01&show_icons=true&layout=compact&bg_color=00000000&text_color=808080&hide_border=true&range=all_time" alt="RohitKushvaha01" /> </a>
+
+# Updates
+
+Jan 12, 2025
+
+- Learned about love2d
+it's a framework for building 2d games using lua it's a nice framework but autocomplete from this is kinda meh
+i am thinking of making a ide for this for Android
+
+- Building a file splitter
+I am working on a file splitter for Android with a beutiful ui
+
+
+
 
 
 
