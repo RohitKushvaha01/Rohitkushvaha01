@@ -79,16 +79,17 @@ Email : kushvahar173@gmail.com
 ## Time
  <a href="https://wakatime.com/@RohitKushvaha01"> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@RohitKushvaha01&show_icons=true&layout=compact&bg_color=00000000&text_color=808080&hide_border=true&range=all_time" alt="RohitKushvaha01" /> </a>
 
+---
+
 # Updates
 
-Jan 12, 2025
+**Jan 12, 2025**
 
-- Learned about love2d
-it's a framework for building 2d games using lua it's a nice framework but autocomplete from this is kinda meh
-i am thinking of making a ide for this for Android
+**Explored LÖVE2D**
+Today, I learned about LÖVE2D, a framework for building 2D games using Lua. It’s a really impressive framework! However, I noticed that the autocomplete support for it is somewhat lacking. This gave me the idea of creating an IDE specifically for LÖVE2D on Android.
 
-- Building a file splitter
-I am working on a file splitter for Android with a beutiful ui
+**Developing a File Splitter**
+I’m currently working on a file splitter app for Android. My focus is on designing a beautiful and intuitive UI to make the experience seamless for users.
 
 
 
