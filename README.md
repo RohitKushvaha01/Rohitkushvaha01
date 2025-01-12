@@ -81,11 +81,11 @@ Email : kushvahar173@gmail.com
 
 ---
 
-# *Updates*
+# **Updates**
 
 **Jan 12, 2025**
 
-**Explored LÖVE2D**
+**Explored LÖVE2D** <br>
 Today, I learned about LÖVE2D, a framework for building 2D games using Lua. It’s a really impressive framework! However, I noticed that the autocomplete support for it is somewhat lacking. This gave me the idea of creating an IDE specifically for LÖVE2D on Android.
 
 **Developing a File Splitter**
