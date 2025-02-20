@@ -54,11 +54,6 @@ I'm always open to exciting opportunities for work or freelance collaborations. 
 Email : kushvahar173@gmail.com
 
 
-## Work Time on languages
- <a href="https://wakatime.com/@RohitKushvaha01"> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@RohitKushvaha01&show_icons=true&layout=compact&bg_color=00000000&text_color=808080&hide_border=true&range=all_time" alt="RohitKushvaha01" /> </a>
-
-
-
 
 
 
