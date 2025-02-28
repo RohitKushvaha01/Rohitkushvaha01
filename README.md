@@ -3,7 +3,7 @@
 I’m **Rohit Kushvaha** from India
 
 ## **About Me:**  
-- 🚀 Android developer with **3+ years of experience**, specializing in creating high-quality mobile applications.  
+- 🚀 Android developer with **2+ years of experience**, specializing in creating high-quality mobile applications.  
 - 🐧 Passionate about **Linux systems** with deep expertise in system-level optimizations and scripting.  
 - 💻 Strong background in **Java (3 years)** and **Kotlin (2 years)** for robust and scalable software development.  
 - 🌐 Exploring new technologies, open-source projects, and continuously improving my skills.
