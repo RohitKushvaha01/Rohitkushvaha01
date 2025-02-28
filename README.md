@@ -54,7 +54,7 @@ I’m **Rohit Kushvaha** from India
 ### [Xed-Editor](https://github.com/Xed-Editor/Xed-Editor) (Karbon)
 I am the developer and owner of **Xed-Editor**, also known as **Karbon**. It is a text editor for Android, similar to Notepad on Windows, but with many advanced features designed for power users.  
 
-###[ReTerminal](https://github.com/RohitKushvaha01/ReTerminal)
+### [ReTerminal](https://github.com/RohitKushvaha01/ReTerminal)
 I am also the developer of **ReTerminal**, a terminal emulator for Android. Since Android is based on Linux, ReTerminal allows users to interact with the Linux kernel seamlessly. It provides a fully functional terminal emulator, ensuring that programs like Vim and Emacs render properly.
 
 
