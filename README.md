@@ -2,16 +2,8 @@
 
 I’m **Rohit Kushvaha** from India
 
-## **About Me:**  
-- 🚀 Android developer with **2+ years of experience**, specializing in creating high-quality mobile applications.  
-- 🐧 Passionate about **Linux systems** with deep expertise in system-level optimizations and scripting.  
-- 💻 Strong background in **Java (3 years)** and **Kotlin (2 years)** for robust and scalable software development.  
-- 🌐 Exploring new technologies, open-source projects, and continuously improving my skills.
-
-
- 
 <img src="https://github-readme-stats-one-bice.vercel.app/api?username=RohitKushvaha01&show_icons=true&include_all_commits=true&count_private=true&bg_color=00000000&text_color=808080&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"/>
- 
+
 
 ## **Languages**
 
@@ -60,7 +52,7 @@ I am also the developer of **ReTerminal**, a terminal emulator for Android. Sinc
 
 ## Let's Connect
 I'm always open to exciting opportunities for work or freelance collaborations. Feel free to reach out—I’d love to hear from you!
-Email : kushvahar173@gmail.com
+
 
 
 
