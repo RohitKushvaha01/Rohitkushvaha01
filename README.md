@@ -51,7 +51,10 @@ I am also the developer of **ReTerminal**, a terminal emulator for Android. Sinc
 
 
 ## Let's Connect
-I'm always open to exciting opportunities for work or freelance collaborations. Feel free to reach out—I’d love to hear from you!
+Feel free to reach out—I’d love to hear from you!
+
+Email : kushvahar173@gmail.com 
+Telegram: RohitKushvaha01
 
 
 
