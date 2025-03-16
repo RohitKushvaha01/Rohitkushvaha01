@@ -20,6 +20,9 @@ Feel free to reach out—I’d love to hear from you!
 Email : kushvahar173@gmail.com 
 Telegram: RohitKushvaha01
 
+#### Profile Views
+[![Hits](https://hits.sh/github.com/RohitKushvaha01/RohitKushvaha01.svg?style=for-the-badge&label=Views&extraCount=4867&color=54856b)](https://hits.sh/github.com/RohitKushvaha01/RohitKushvaha01/)
+
 
 
 
