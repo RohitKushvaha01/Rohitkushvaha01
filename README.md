@@ -7,6 +7,11 @@ I’m **Rohit Kushvaha** from India
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RohitKushvaha01&theme=nord_dark&utcOffset=8)
 
 
+# Skills
+- Kotlin, Java, dart etc.
+- Flutter
+- Jetpack Compose
+- Native Android Developement
 
 
 
