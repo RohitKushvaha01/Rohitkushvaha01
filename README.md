@@ -15,7 +15,7 @@ I’m **Rohit Kushvaha** from India
 
 
 ## Let's Connect
-Feel free to reach out—I’d love to hear from you!
+Feel free to reach out I’d love to hear from you!
 
 Email : kushvahar173@gmail.com <br>
 Telegram: https://t.me/RohitKushvaha01
