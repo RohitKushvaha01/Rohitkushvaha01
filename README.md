@@ -13,6 +13,9 @@ I’m **Rohit Kushvaha** from India
 - Jetpack Compose
 - Native Android Developement
 
+# Resume 
+[Resume.pdf](https://docs.google.com/document/d/1tM7uZSnQwEoXDhA32Xwvrfl8o5fNocFcZyE-qckIMe4/edit?usp=drivesdk)
+
 
 ## Let's Connect
 Feel free to reach out I’d love to hear from you!
