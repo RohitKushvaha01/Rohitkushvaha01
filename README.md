@@ -8,10 +8,11 @@ I’m **Rohit Kushvaha** from India
 
 
 # Skills
-- Kotlin, Java, dart etc.
-- Flutter
+- Java, Kotlin, Javascript etc.
 - Jetpack Compose
 - Native Android Developement
+- Javascript 
+- Flutter (Basic)
 
 # Resume 
 [Resume.pdf](https://docs.google.com/document/d/1tM7uZSnQwEoXDhA32Xwvrfl8o5fNocFcZyE-qckIMe4/edit?usp=drivesdk)
