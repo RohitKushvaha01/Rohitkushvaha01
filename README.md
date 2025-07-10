@@ -8,7 +8,7 @@ I’m **Rohit Kushvaha** from India
 
 
 # Skills
-- Java, Kotlin, Javascript etc.
+- Java, Kotlin, etc.
 - Jetpack Compose
 - Native Android Developement
 - Javascript 
