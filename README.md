@@ -12,8 +12,8 @@ I’m **Rohit Kushvaha** from India
 - Jetpack Compose
 - Native Android Developement
 - Javascript
-- Capacitor (Webapp)
-- Cordova (Webapp)
+- Capacitor
+- Cordova
 - Flutter (Basic)
 
 ## Let's Connect
