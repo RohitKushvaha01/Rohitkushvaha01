@@ -6,6 +6,8 @@
 
 # Skills
 - Java, Kotlin, etc.
+- React
+- PHP
 - Jetpack Compose
 - Native Android Developement
 - Javascript
