@@ -7,13 +7,13 @@
 # Skills
 - Java, Kotlin, etc.
 - React
-- PHP
 - Jetpack Compose
 - Native Android Developement
 - Javascript
 - Capacitor
 - Cordova
-- Flutter (Basic)
+- Flutter
+- Rust
 
 ## Let's Connect
 Feel free to reach out I’d love to hear from you!
