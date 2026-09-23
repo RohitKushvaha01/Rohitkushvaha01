@@ -6,6 +6,7 @@
 - Full Android Development
 - Full stack web development
 - Cross platform app development (Flutter,React Native, Cordova/Capacitor)
+- DevOps + SysAdmin
 - Game development with C++ and Vulkan/OpenGL
 
 #### Profile Views
